@@ -1,5 +1,6 @@
 # Stock Market Trading App
-Demo video: https://drive.google.com/file/d/12vZ6BE79lr7EBaOGGV_Yc-kwuLwLYzn2/view?usp=drive_link
+## Demo Video
+https://drive.google.com/file/d/12vZ6BE79lr7EBaOGGV_Yc-kwuLwLYzn2/view?usp=drive_link
 
 ## Screenshots
 
