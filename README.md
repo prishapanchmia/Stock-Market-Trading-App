@@ -4,23 +4,28 @@ Demo video: https://drive.google.com/file/d/12vZ6BE79lr7EBaOGGV_Yc-kwuLwLYzn2/vi
 ## Screenshots
 
 ### Home Page
-![Home Page](./Images/Home%20Page.png)
+<img src="./Images/Home%20Page.png" alt="Home Page" width="400"/>
+
 **Figure 1**: The home page showing the portfolio and favorite stocks.
 
 ### Information Page
-![Information Page](./Images/Information%20Page.png)
+<img src="./Images/Information%20Page.png" alt="Information Page" width="400"/>
+
 **Figure 2**: The information page with detailed stock statistics and analysis.
 
 ### News Page
-![News Page](./Images/News%20Page.png)
+<img src="./Images/News%20Page.png" alt="News Page" width="400"/>
+
 **Figure 3**: The news page displaying the latest articles related to the selected stock.
 
 ### Stock Page
-![Stock Page](./Images/Stock%20Page.png)
+<img src="./Images/Stock%20Page.png" alt="Stock Page" width="400"/>
+
 **Figure 4**: The stock page with live stock details and insights.
 
 ### Trading Page
-![Trading Page](./Images/Trading%20Page.png)
+<img src="./Images/Trading%20Page.png" alt="Trading Page" width="400"/>
+
 **Figure 5**: The trading page used to buy and sell stocks with virtual currency.
 
 
