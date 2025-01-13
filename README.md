@@ -1,17 +1,28 @@
 # Stock Market Trading App
 Demo video: https://drive.google.com/file/d/12vZ6BE79lr7EBaOGGV_Yc-kwuLwLYzn2/view?usp=drive_link
-### Home Screen
-![Home Screen](./Images/HomePage.png)
-The home screen of the app displaying portfolio and favorites sections.
 
-### Trade Sheet
-![Trade Sheet](./Images/TradingPage.png)
-The trade sheet used for buying and selling stocks with virtual money.
+## Screenshots
 
-### Stock Details
-![Stock Details Screen](./Images/StockPage.png)
-![Stock News Screen](./Images/NewsPage.png)
-Detailed stock information including stats, insights, and news sections.
+### Home Page
+![Home Page](./Images/Home%20Page.png)
+**Figure 1**: The home page showing the portfolio and favorite stocks.
+
+### Information Page
+![Information Page](./Images/Information%20Page.png)
+**Figure 2**: The information page with detailed stock statistics and analysis.
+
+### News Page
+![News Page](./Images/News%20Page.png)
+**Figure 3**: The news page displaying the latest articles related to the selected stock.
+
+### Stock Page
+![Stock Page](./Images/Stock%20Page.png)
+**Figure 4**: The stock page with live stock details and insights.
+
+### Trading Page
+![Trading Page](./Images/Trading%20Page.png)
+**Figure 5**: The trading page used to buy and sell stocks with virtual currency.
+
 
 - The application is a native iOS app developed using SwiftUI that allows users to search and track stock symbols, view detailed stock information, and trade with virtual money. 
 - The app integrates with Finnhub APIs to fetch real-time stock data, including quotes, company profiles, social sentiments, recommendation trends, and historical earnings data. 
